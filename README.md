@@ -1,5 +1,4 @@
-# Open PFLOW
-Welcome to the OpenPFLOW wiki!
+# Abstract
 # Format
 + id : unique agent id (int)
 + time : YYYY/MM/DD HH:mm:ss(char[])
