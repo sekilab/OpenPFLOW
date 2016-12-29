@@ -12,5 +12,5 @@ An open dataset for typical people mass movement in urban areas
 # DataSet
 
 # Visualization
-![tokyo_point](http://)
-![tokyo_tail](http://)
+![tokyo_point](images/tokyo_point.png "tokyo_point")
+![tokyo_tail](images/tokyo_tail.png "tokyo_tail")
