@@ -12,5 +12,7 @@ An open dataset for typical people mass movement in urban areas
 # DataSet
 
 # Visualization
++ People distribution visualized in a time series representation. Each dot represents a person.
 ![tokyo_point](images/tokyo_point.png "tokyo_point")
++ Trips visualized in a time series representation. Each line represents a trip, and each color represents a movement status (green: train, orange: vehicle). 
 ![tokyo_tail](images/tokyo_tail.png "tokyo_tail")
