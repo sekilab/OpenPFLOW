@@ -1,4 +1,6 @@
 # Abstract
+An open dataset for typical people mass movement in urban areas
+
 # Format
 + id : unique agent id (int)
 + time : YYYY/MM/DD HH:mm:ss(char[])
