@@ -10,7 +10,7 @@ An open dataset for typical people mass movement in urban areas
 + magnification factor: (double)
 
 # DataSet
-###[tokyo](dataset/tokyo.txt "tokyo")
+###[tokyo metropolitan area](dataset/tokyo.txt "tokyo")
 
 
 # Visualization
