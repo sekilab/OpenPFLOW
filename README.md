@@ -14,6 +14,9 @@ An open dataset for typical people mass movement in urban areas
 + chukyo metropolitan area(preparing)
 
 # Visualization
+### [sample](http://shiba.iis.u-tokyo.ac.jp/member/ueyama/mm/)
+Let's click 'Show Sample Data' button
+
 ### [movie1](movie/tokyo_point.mp4 "movie1")
 People distribution visualized in a time series representation. Each dot represents a person.
 
