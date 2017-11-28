@@ -1,6 +1,9 @@
 # Abstract
 An open dataset for typical people mass movement in urban areas
 
+Article link[https://authors.elsevier.com/sd/article/S0968090X17302644]
+Takehiro Kashiyama, Yanbo Pang, Yoshihide Sekimoto, Open PFLOW: Creation and evaluation of an open dataset for typical people mass movement in urban areas, Transportation Research Part C: Emerging Technologies, Volume 85, Pages 249–267, December 2017.
+
 # Format
 + id : unique agent id (int)
 + time : YYYY/MM/DD HH:mm:ss(char[])
