@@ -6,6 +6,9 @@ Article link(https://authors.elsevier.com/sd/article/S0968090X17302644)
 
 If you have something to ask us about the dataset, please contact : ksym[at]iis.u-tokyo.ac.jp
 
+##Citation
+If you use or find out our dataset useful, please cite our paper in your paper.
+
 # Format
 + id : unique agent id (int)
 + time : YYYY/MM/DD HH:mm:ss(char[])
@@ -18,6 +21,10 @@ If you have something to ask us about the dataset, please contact : ksym[at]iis.
 + [tokyo metropolitan area](https://share.cw503.net/owncloud/index.php/s/u9MttDfTiAPUDsJ "tokyo")
 + chukyo metropolitan area(preparing)
 + hanshin metropolitan area(preparing)
+
+# License
+Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
+<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />
 
 # Visualization
 ### [sample](http://shiba.iis.u-tokyo.ac.jp/member/ueyama/mm/)
@@ -33,6 +40,4 @@ Trips visualized in a time series representation. Each line represents a trip, a
 
 ![tokyo_tail](images/tokyo_tail.png "tokyo_tail")
 
-# License
-Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
-<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />
+
