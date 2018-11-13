@@ -7,7 +7,7 @@ Article link(https://authors.elsevier.com/sd/article/S0968090X17302644)
 ## Contact
 If you have something to ask us about the dataset, please contact : ksym[at]iis.u-tokyo.ac.jp
 
-[Web site](http://sekilab.iis.u-tokyo.ac.jp/staffs/)
+[Web site: Sekimoto lab, Institute of Industrial Science, University of Tokyo](http://sekilab.iis.u-tokyo.ac.jp/staffs/)
 
 ## Citation
 If you use or find out our dataset useful, please cite our paper in your paper.
