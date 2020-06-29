@@ -26,7 +26,7 @@ If you use or find out our dataset useful, please cite our paper in your paper.
 + hanshin metropolitan area(preparing)
 
 # License
-Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-NC 4.0 mark:
+Images on this dataset are available under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-NC 4.0 mark:
 
 # Visualization
 ### [sample](http://shiba.iis.u-tokyo.ac.jp/member/ueyama/mm/)
