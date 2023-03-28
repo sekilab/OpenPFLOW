@@ -18,12 +18,13 @@ If you use or find out our dataset useful, please cite our paper in your paper.
 + longitude : SRID-4326(double)
 + latitude: SRID-4326(double)
 + transport: STAY-99, WALK-1, VEHICLE-2, TRAIN-3, BICYCLE-4(int)
-+ magnification factor: (double)
+
+
+All agents have the same magnification factor value (55.6).
 
 # DataSet
 + tokyo metropolitan area([nodebase](https://share.cw503.net/owncloud/index.php/s/u9MttDfTiAPUDsJ "tokyo"))
-+ chukyo metropolitan area(preparing)
-+ hanshin metropolitan area(preparing)
+
 
 # License
 Images on this dataset are available under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-NC 4.0 mark:
